@@ -32,7 +32,6 @@ function handleCalc(e) {
     result = divide(number1, number2);
   } 
   document.getElementById("output").innerText = result;
-  console.log(result);
 }
 
 
